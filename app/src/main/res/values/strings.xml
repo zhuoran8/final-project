@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySecondApplication</string>
+    <string name="B1">Weather</string>
+    <string name="B2">airpollution</string>
+    <string name="Text">enter a city to search</string>
+    <string name="text2">enter the state</string>
+    <string name="text3">enter the country</string>
+    <string name="B3">get the nearest city data</string>
+</resources>
